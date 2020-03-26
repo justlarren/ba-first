@@ -1,0 +1,15 @@
+body {
+    margin: 10px;
+
+    color: red;
+    background-color: bisque;
+
+    font-size: 30pt;
+}
+
+section {
+    padding: 0;
+}
+span {
+    display: block;
+}
